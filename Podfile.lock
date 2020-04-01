@@ -1,0 +1,20 @@
+PODS:
+  - ChocolatePlatform-SDK-Core (3.2.5)
+  - FreestarAds (3.2.5):
+    - ChocolatePlatform-SDK-Core (~> 3.2.5)
+
+DEPENDENCIES:
+  - FreestarAds (~> 3.2.5)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ChocolatePlatform-SDK-Core
+    - FreestarAds
+
+SPEC CHECKSUMS:
+  ChocolatePlatform-SDK-Core: 7488159b8c7de9a3fc2dc37f0cd6b4c3575d5daa
+  FreestarAds: 6f791faeb915eb9eb1bb1dbda207a547a55f0325
+
+PODFILE CHECKSUM: 7b0c3756afa9b845bfed315fcc1db2a601098282
+
+COCOAPODS: 1.7.5
